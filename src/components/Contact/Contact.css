@@ -1,3 +1,6 @@
 .contact {
   flex-direction: column;
 }
+.contact a {
+  display: inline;
+}

@@ -9,8 +9,8 @@ const about = {
   name: 'Sumanth Devadiga',
   role: 'Software Engineer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    "Hi, I'm Sumanth Devadiga, a Computer Science Engineering student passionate about Web Development and problem-solving. With hands-on experience in Java, Python, and building web applications, I love learning new technologies and creating impactful solutions. I'm always striving to improve and contribute to meaningful projects. Explore my work and let's connect!",
+  resume: 'https://drive.google.com/file/d/1C2194DDMWjBdObLboiJ5IaVYY9waBQAI/view?usp=sharing',
   social: {
     linkedin: 'https://github.com/sumanth0095',
     github: 'https://github.com/sumanth0095',
@@ -21,26 +21,26 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'E-Store',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'This is the project on E-Commerce Website designed using the PHP for the Front_End and the MYSQL for database of the website',
+    stack: ['PHP', 'MY SQL','XAMPP'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 2',
+    name: 'Travel Website',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'This is the Front-End Design of the project built using the HTML, CSS and Tailwind for the Front-End',
+    stack: ['HTMl', 'CSS', 'Tailwind'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
-    name: 'Project 3',
+    name: 'Spam News Detection',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
+      'The project is based on the spam news detection built using the ptyhon to train the AI model',
+    stack: ['Python'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -52,20 +52,19 @@ const skills = [
   'HTML',
   'CSS',
   'JavaScript',
-  'TypeScript',
   'React',
-  'Redux',
-  'SASS',
-  'Material UI',
   'Git',
-  'CI/CD',
-  'Jest',
-  'Enzyme',
+  'Java',
+  'Python',
+  'SQL',
+  'Machine Learning',
+  'Artificial Intelligence'
 ]
 
 const contact = {
   // email is optional - if left empty Contact section won't show up
-  email: 'johnsmith@mail.com',
+  email: 'sumanth.devadiga095@gmail.com',
+  mobile: 8861074383
 }
 
 export { header, about, projects, skills, contact }

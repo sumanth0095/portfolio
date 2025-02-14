@@ -1,7 +1,7 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rjshkhr.github.io/cleanfolio',
-  title: 'JS.',
+  // // all the properties are optional - can be left empty or deleted
+  // homepage: 'https://rjshkhr.github.io/cleanfolio',
+  // title: 'Sumanth',
 }
 
 const about = {
@@ -23,17 +23,17 @@ const projects = [
   {
     name: 'E-Store',
     description:
-      'This is the project on E-Commerce Website designed using the PHP for the Front_End and the MYSQL for database of the website',
-    stack: ['PHP', 'MY SQL','XAMPP'],
+      'An E-Commerce Website with secure user authentication, product management, designed with PHP for the Front_End and MYSQL for database',
+    stack: ['PHP', 'MY SQL','HACK'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
     name: 'Travel Website',
     description:
-      'This is the Front-End Design of the project built using the HTML, CSS and Tailwind for the Front-End',
+      'This is the Front-End Design of the project built using the HTML, CSS and Framework Tailwind.',
     stack: ['HTMl', 'CSS', 'Tailwind'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/sumanth0095/Tailwind-CSS-HTML',
     livePreview: 'https://github.com',
   },
   {
@@ -44,6 +44,7 @@ const projects = [
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
+  
 ]
 
 const skills = [

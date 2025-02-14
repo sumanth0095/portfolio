@@ -39,7 +39,7 @@ const projects = [
   {
     name: 'Spam News Detection',
     description:
-      'The project is based on the spam news detection built using the ptyhon to train the AI model.',
+      'The project is based on the spam news detection built using the ptyhon to train the AI model. ',
     stack: ['Python'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',

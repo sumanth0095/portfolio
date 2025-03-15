@@ -12,7 +12,7 @@ const about = {
     "Hi, I'm Sumanth Devadiga, a Computer Science Engineering student passionate about Web Development and problem-solving. With hands-on experience in Java, Python, and building web applications, I love learning new technologies and creating impactful solutions. I'm always striving to improve and contribute to meaningful projects. Explore my work and let's connect!",
   resume: 'https://drive.google.com/file/d/1C2194DDMWjBdObLboiJ5IaVYY9waBQAI/view?usp=sharing',
   social: {
-    linkedin: 'https://github.com/sumanth0095',
+    linkedin: 'www.linkedin.com/in/sumanth-r-devadiga',
     github: 'https://github.com/sumanth0095',
   },
 }
